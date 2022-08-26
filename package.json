@@ -3,6 +3,17 @@
   "displayName": "Smooth Dark Theme",
   "description": "My very own dark theme probably will get your eyes get euphoria",
   "version": "0.0.1",
+  "publisher": "sbek22",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MugiD/dark-theme-vscode"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "dark",
+    "bekslambek"
+  ],
   "engines": {
     "vscode": "^1.70.0"
   },
